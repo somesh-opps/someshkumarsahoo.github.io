@@ -19,7 +19,7 @@ li{
     align-items: center;
     justify-content: space-evenly;
     height: 10vh;
-    width: 100%;
+    width: 100vw;
     position: fixed;
     background-color: rgb(97, 117, 229);
     z-index: 20;
@@ -150,14 +150,12 @@ li{
 }
 
 #page2{
-    width: 100vw;
     background-color: rgba(255, 255, 255, 0.371);
 }
 
 .textbox{
     margin-left: 20px;
     margin-right: 20px;
-    width: 95vw;
     h3{
         margin-top: 30px;
         margin-left: 150px;
@@ -199,10 +197,9 @@ li{
 #subpage2{
     display: flex;
     height: 85vh;
-    width: 100%;
+    width: 100vw;
     background-color: white;
     #education{
-        /* margin-top: 70px; */
         padding: 100px;
         h3{
             margin-left: 90px;
@@ -239,7 +236,6 @@ li{
         }
     }
     #experience{
-        /* padding: 50px; */
         h3{
             margin-left: 150px;
         }
@@ -271,8 +267,9 @@ li{
 #subpage4{
     width: 100vw;
     height: 85vh;
+    background-color: rgb(236, 239, 255);
     #EventsAttended{
-        background-color: rgb(236, 239, 255);
+        
         margin-top: 70px;
         padding: 100px;
         h3{
@@ -310,7 +307,6 @@ li{
             p{
                 margin-top: 10px;
                 margin-left: 90px;
-                margin-right: 130px;
                 color: rgb(91, 102, 160) ; 
                 font-family: cursive;
                 font-size: 15px;
@@ -322,7 +318,8 @@ li{
 #subpage5{
     display: flex;
     height: 77vh;
-    width: 100%;background-color: white;
+    width: 100vw;
+    background-color: white;
     #membership{
         padding: 100px;
         h3{
@@ -376,7 +373,6 @@ li{
         p{
             margin-top: 20px;
             margin-left: 50px;
-            margin-right: 50px;
             color: rgb(28,35,73) ; 
             font-family: cursive;
             line-height: 2em;
@@ -386,7 +382,6 @@ li{
             p{
                 margin-top: 20px;
                 margin-left: 90px;
-                margin-right: 50px;
                 color: rgb(28,35,73) ; 
                 font-family: cursive;
                 font-size: 17px;
@@ -396,7 +391,6 @@ li{
             p{
                 margin-top: 10px;
                 margin-left: 90px;
-                margin-right: 130px;
                 color: rgb(91, 102, 160) ; 
                 font-family: cursive;
                 font-size: 15px;
@@ -406,6 +400,7 @@ li{
 }
 
 #subpagex{
+    width: 100vw;
     display: flex;
     background-color:rgb(236, 239, 255) ;
     height: 45vh;
@@ -484,6 +479,7 @@ li{
 }
 
 #page3{
+    width: 100vw;
     background-color: rgb(97, 117, 229);
     #Compitition{
         display: flex;
