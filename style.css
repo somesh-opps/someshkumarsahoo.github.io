@@ -44,7 +44,7 @@ html,body{
         .texts :hover{
             color: black;
         }
-        .texts::before {
+        /* .texts::before {
             content: "";
             position: absolute;
             margin-top: 19px;
@@ -58,7 +58,7 @@ html,body{
             
         .texts:hover::before {
             transform: scaleX(1);
-        }
+        } */
     }
     #fakeheader{
         height: 10vh;
