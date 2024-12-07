@@ -94,9 +94,6 @@ html,body{
                     a{
                         color: white;
                     }
-                    /* .icon {
-                        
-                    } */
                 }
                 #Contact{
                     margin-top: 65px;
@@ -311,7 +308,7 @@ html,body{
     }
     #subpage5{
         display: flex;
-        height: 72vh;
+        height: 62vh;
         width: 100%;
         background-color: white;
         #membership{
