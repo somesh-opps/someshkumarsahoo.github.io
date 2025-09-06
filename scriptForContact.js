@@ -1,7 +1,7 @@
 // first page contacts
 
 document.getElementById('email').addEventListener('click', function() {
-    window.location.href = 'mailto:smeshkumar.sahoo2024@uem.edu.in';
+    window.location.href = 'mailto:someshkumarsahoo28@gmail.com';
 });
 
 
@@ -24,7 +24,7 @@ document.getElementById('x').addEventListener('click', function() {
 
 // links for contact adress page
 document.getElementById('email2').addEventListener('click', function() {
-    window.location.href = 'mailto:smeshkumar.sahoo2024@uem.edu.in';
+    window.location.href = 'mailto:someshkumarsahoo28@gmail.com';
 });
 
 
